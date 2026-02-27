@@ -18,9 +18,9 @@ class PalindromeCheckerApp{
             }
         }
         if (isPalindrome){
-            System.out.println("Is it a Palindrome? : true");
+            System.out.println("Is it a Palindrome? : true...");
         }else{
-            System.out.println("Is it a Palindrome? : false");
+            System.out.println("Is it a Palindrome? : false...");
         }
 
         sc.close();
